@@ -1,0 +1,12 @@
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\bin\Debug\net7.0\FootballService.Core.deps.json
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\bin\Debug\net7.0\FootballService.Core.dll
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\bin\Debug\net7.0\FootballService.Core.pdb
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\FootballService.Core.csproj.AssemblyReference.cache
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\FootballService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\FootballService.Core.AssemblyInfoInputs.cache
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\FootballService.Core.AssemblyInfo.cs
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\FootballService.Core.csproj.CoreCompileInputs.cache
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\FootballService.Core.dll
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\refint\FootballService.Core.dll
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\FootballService.Core.pdb
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Core\obj\Debug\net7.0\ref\FootballService.Core.dll

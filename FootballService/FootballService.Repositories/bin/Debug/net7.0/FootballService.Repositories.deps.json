@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FootballService.Repositories/1.0.0": {
+        "dependencies": {
+          "FootballService.Core": "1.0.0"
+        },
+        "runtime": {
+          "FootballService.Repositories.dll": {}
+        }
+      },
+      "FootballService.Core/1.0.0": {
+        "runtime": {
+          "FootballService.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FootballService.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FootballService.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

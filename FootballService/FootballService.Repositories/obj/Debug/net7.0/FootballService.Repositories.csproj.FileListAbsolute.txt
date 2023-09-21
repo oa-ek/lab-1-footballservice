@@ -1,0 +1,15 @@
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\bin\Debug\net7.0\FootballService.Repositories.deps.json
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\bin\Debug\net7.0\FootballService.Repositories.dll
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\bin\Debug\net7.0\FootballService.Repositories.pdb
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\bin\Debug\net7.0\FootballService.Core.dll
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\bin\Debug\net7.0\FootballService.Core.pdb
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\FootballService.Repositories.csproj.AssemblyReference.cache
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\FootballService.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\FootballService.Repositories.AssemblyInfoInputs.cache
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\FootballService.Repositories.AssemblyInfo.cs
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\FootballService.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\FootballService.Repositories.csproj.CopyComplete
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\FootballService.Repositories.dll
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\refint\FootballService.Repositories.dll
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\FootballService.Repositories.pdb
+C:\Users\oleks\C# Projects\lab-1-footballservice\FootballService\FootballService.Repositories\obj\Debug\net7.0\ref\FootballService.Repositories.dll
