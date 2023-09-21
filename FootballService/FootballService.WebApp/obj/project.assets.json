@@ -1306,7 +1306,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.1"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.1"
         },
         "compile": {
           "bin/placeholder/FootballService.Core.dll": {}
