@@ -1,0 +1,32 @@
+﻿@using FootballService.Core.Entities;
+@model Player
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Деталі гравця</h2>
+
+<table class="table">
+    <tr>
+        <td>Ім'я:</td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td>Національність:</td>
+        <td>@Model.Nationality</td>
+    </tr>
+    <tr>
+        <td>Дата народження:</td>
+        <td>@Model.DateOfBirth.ToShortDateString()</td>
+    </tr>
+    <tr>
+        <td>Позиція:</td>
+        <td>@Model.Position</td>
+    </tr>
+    <tr>
+        <td>Команда:</td>
+        <td>@Model.Team.Name</td>
+    </tr>
+</table>
+<a class=" btn btn-primary" asp-controller="Player" asp-action="Index">Назад до списку гравців</a>

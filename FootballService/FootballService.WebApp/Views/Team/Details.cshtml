@@ -1,0 +1,24 @@
+﻿@using FootballService.Core.Entities;
+@model Team
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Деталі команди</h2>
+
+<table class="table">
+    <tr>
+        <td>Назва:</td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td>Країна:</td>
+        <td>@Model.Country</td>
+    </tr>
+    <tr>
+        <td>Рік заснування:</td>
+        <td>@Model.YearFounded</td>
+    </tr>
+</table>
+<a class=" btn btn-primary" asp-controller="Team" asp-action="Index">Назад до списку команд</a>

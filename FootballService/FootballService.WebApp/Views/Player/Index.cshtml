@@ -1,0 +1,41 @@
+﻿@using FootballService.Core.Entities;
+@model IEnumerable<Player>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="d-flex justify-content-between mb-3 align-items-center">
+    <h2>Список команд</h2>
+    <a asp-controller="Player" asp-action="Create" class="btn btn-primary p-2 h-75">+</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ім'я</th>
+            <th>Національність</th>
+            <th>Дата народження</th>
+            <th>Позиція</th>
+            <th>Команда</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var player in Model)
+        {
+                <tr >
+                    <td>@player.Name</td>
+                    <td>@player.Nationality</td>
+                    <td>@player.DateOfBirth.ToShortDateString()</td>
+                    <td>@player.Position</td>
+                    <td>@player.Team.Name</td>
+                    <td class="text-end">
+                        <a class="btn btn-info" asp-action="Details" asp-route-id="@player.Id">Деталі</a> 
+                        <a class="btn btn-warning" asp-action="Edit" asp-route-id="@player.Id">Редагувати</a> 
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@player.Id">Видалити</a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

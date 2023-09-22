@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FootballService.Core.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,13 @@ using System.Threading.Tasks;
 
 namespace FootballService.Repositories.Interfaces
 {
-    internal interface ITournamentTableRepository
+    public interface ITournamentTableRepository
     {
+        TournamentTable GetById(int id);
+        IEnumerable<TournamentTable> GetAll();
+        void Add(TournamentTable table);
+        void Update(TournamentTable table);
+        void Delete(int id);
+        void Save();
     }
 }

@@ -1,0 +1,28 @@
+﻿@using FootballService.Core.Entities;
+@model Team
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Редагування команди</h2>
+
+<form class="d-flex flex-column gap-4" asp-controller="Team" asp-action="Edit" asp-route-id="@Model.Id" method="post">
+    <div class="form-group">
+        <label asp-for="Name">Назва:</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Country">Країна:</label>
+        <input asp-for="Country" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="YearFounded">Рік заснування:</label>
+        <input asp-for="YearFounded" class="form-control" />
+    </div>
+     <div class="w-25 d-flex flex-row gap-4">
+
+        <button type="submit" class="btn btn-primary">Зберегти зміни</button>
+        <a class="btn btn-danger" asp-controller="Team" asp-action="Index">Скасувати</a>
+    </div>
+</form>
